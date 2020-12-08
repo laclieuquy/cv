@@ -1922,6 +1922,6 @@ body.offcanvas .colorlib-nav-toggle {
   justify-content: space-around;
 }
 .list-img img {
-  width: 300px;
+  width: 100%;
   margin-bottom: 10px;
 }
